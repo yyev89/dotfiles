@@ -3,6 +3,7 @@ alias ls="exa"
 alias l="exa -1"
 alias lt="exa -T"
 alias ll="exa -l"
+alias llt="exa -lT"
 alias la="exa -lah"
 
 # python short
