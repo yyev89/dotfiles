@@ -15,3 +15,8 @@ alias pbpaste='xsel --output --clipboard'
 
 # diff color output
 alias diff="diff --color=always"
+
+# k8s and task aliases
+alias k="kubectl"
+alias t="task"
+alias tl="task --list-all"
