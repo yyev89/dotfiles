@@ -1,10 +1,8 @@
 # list aliases
-alias ls="exa"
-alias l="exa -1"
-alias lt="exa -T"
-alias ll="exa -l"
-alias llt="exa -lT"
-alias la="exa -lah"
+alias ls='ls --color=auto'
+alias la='ls -lathr'
+alias ll='ls -l'
+alias l='ls -1'
 
 # python short
 alias py="python3"
@@ -18,5 +16,4 @@ alias diff="diff --color=always"
 
 # k8s and task aliases
 alias k="kubectl"
-alias t="task"
 alias tl="task --list-all"
