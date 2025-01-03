@@ -16,4 +16,3 @@ alias diff="diff --color=always"
 
 # k8s and task aliases
 alias k="kubectl"
-alias tl="task --list-all"
