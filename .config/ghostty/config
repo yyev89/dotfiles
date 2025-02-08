@@ -43,5 +43,5 @@
 # resize-overlay-duration = 4s 200ms
 theme = tokyonight
 font-size = 13
-maximize = true
+fullscreen = true
 title = " "
