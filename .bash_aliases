@@ -2,7 +2,7 @@
 alias ls='ls --color=auto'
 alias la='ls -lathr'
 alias ll='ls -l'
-alias l='ls -1'
+alias l='ls -1F'
 
 # python short
 alias py="python3"
