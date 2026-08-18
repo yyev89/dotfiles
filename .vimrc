@@ -13,3 +13,4 @@ set hlsearch              " Highlight search results
 set wildmenu              " Enable command-line completion menu
 set t_Co=256              " Use 256-color terminal (if supported)
 set nocompatible          " Disable VI compatibility
+set scrolloff=6
